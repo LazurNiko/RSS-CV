@@ -55,9 +55,9 @@
    * Adobe Illustrator
      
 ### Soft Skills
-    * Scrum
-    * Agile
-    * Teamwork
+   * Scrum
+   * Agile
+   * Teamwork
     
 
 
