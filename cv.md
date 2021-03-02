@@ -15,13 +15,13 @@
 ### Work Experience
         
 #### Manager 
-  * Mobi Mania | September 6 - September 2010 Ukraine
+  Mobi Mania | September 6 - September 2010 Ukraine
   * Sales manager
   * Products: electronic gadgets
   * Position: Lviv, Ukraine
             
 #### Instructor 
-  * Academy Aikibujutsu | September 2010 - September 2019 Ukraine             
+  Academy Aikibujutsu | September 2010 - September 2019 Ukraine             
   * Aikido teacher
   * Chef instructor
   * Vice-president of Federation
@@ -30,7 +30,7 @@
            
 #### Photographer/Videographer 
   
-  * Freelance | September 2017 - up to now Ukraine
+  Freelance | September 2017 - up to now Ukraine
   * Photograpy Retoucher
   * Videooperator
   * Videoeditor
@@ -38,7 +38,7 @@
   
 ### Education
             
-  * Lviv State Univercity of Physical Culture
+  Lviv State Univercity of Physical Culture
   
   Physical Rehabilitation | September 2006 - June 2010 Ukraine
               
