@@ -1,2 +1,2 @@
 # rsschool-cv
-https://LazurNiko.github.io/rsschool-cv/cv-rss
+https://LazurNiko.github.io/rsschool-cv/cv
